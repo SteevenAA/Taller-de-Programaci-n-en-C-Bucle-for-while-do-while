@@ -3,9 +3,9 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 
 ## Estructura del Repositorio 
 1. **Suma de los dígitos de un número**
-- `for`: `ejercicios/1.suma_digitos/for.c`
-- `while`: `ejercicios/1.suma_digitos/while.c`
-- `do while`: `ejercicios/1.suma_digitos/do_while.c`
+- `for`: `ejercicios/1.suma_digitos/for.c` : https://github.com/SteevenAA/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/59c230356247dc8a47dc1b4e73e77ae9fc229452/ejercicios/1.suma_digitos/for.c
+- `while`: `ejercicios/1.suma_digitos/while.c` : https://github.com/SteevenAA/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/59c230356247dc8a47dc1b4e73e77ae9fc229452/ejercicios/1.suma_digitos/while.c
+- `do while`: `ejercicios/1.suma_digitos/do_while.c` : https://github.com/SteevenAA/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/59c230356247dc8a47dc1b4e73e77ae9fc229452/ejercicios/1.suma_digitos/do_while.c
 
 2. **Inverso de un número** 
 - `for`: `ejercicios/2.inverso_numero/for.c` 
